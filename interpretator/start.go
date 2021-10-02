@@ -1,0 +1,4 @@
+package interpretator
+
+func Run() {
+}
